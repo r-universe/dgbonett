@@ -1,0 +1,10 @@
+[
+  {
+    "package": "statpsych",
+    "oncran": true
+  },
+  {
+    "package": "vcmeta",
+    "oncran": true
+  }
+]
