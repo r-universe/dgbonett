@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "statpsych"]
 	path = statpsych
 	url = https://github.com/dgbonett/statpsych
-	shallow = true
-	registered = true
 [submodule "vcmeta"]
 	path = vcmeta
 	url = https://github.com/dgbonett/vcmeta
-	shallow = true
-	registered = true
